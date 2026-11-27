@@ -137,13 +137,13 @@ Zomato-EDA-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AagmanTiwari/Zomato-EDA-Project.git
+git clone https://github.com/AagmanTiwari/Zomato-Data-Analysis-Project.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd Zomato-EDA-Project
+cd Zomato-Data-Analysis-Project
 ```
 
 ### 3. Install Required Libraries
