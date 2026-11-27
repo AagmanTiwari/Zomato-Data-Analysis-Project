@@ -137,7 +137,7 @@ Zomato-EDA-Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Zomato-EDA-Project.git
+git clone https://github.com/AagmanTiwari/Zomato-EDA-Project.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -183,7 +183,7 @@ The initial exploratory analysis and 10 business problem solutions have been imp
 
 **Aagman Tiwari**
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: [AagmanTiwari](https://github.com/AagmanTiwari)
 
 ---
 
